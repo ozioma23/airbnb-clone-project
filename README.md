@@ -48,3 +48,40 @@ Simple Checkout View	  Streamlined payment and booking confirmation
 
 *Importance of User-Friendly Design*
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success
+
+*Figma Design Specifications*
+Color Styles:
+Primary: #FF5A5F
+Secondary: #008489
+Background: #FFFFFF
+Text: #222222
+Secondary Text: #717171
+
+Typography:
+Primary Font: Circular, Medium (500), 16px
+Headings: Circular, Bold (700), 24px-32px
+Secondary Text: Circular, Book (400), 14px
+
+*The importance of  dentifying  design properties of a mock up design*
+1. Ensures Consistency
+When you identify design properties early, you maintain visual consistency across all pages and components.
+ For example: Using the same button color and font style creates a unified experience for users.
+
+2. Improves Developer–Designer Collaboration
+Clear design properties make it easier for developers to implement the design accurately.
+Instead of guessing color codes or font weights, you can read them directly from the mock-up (using tools like Figma Inspect).
+This prevents miscommunication and rework.
+
+ 3. Makes Front-End Implementation Easier
+By identifying layout grids, spacing, and color variables early, you can easily convert the mock-up into clean, reusable CSS or component code.It helps you plan your CSS variables, Tailwind classes, or React components in advance.
+
+4. Enhances User Experience (UX)
+Design properties influence how users perceive and interact with your app. Understanding visual hierarchy, color contrast, and typography improves readability and accessibility.
+It ensures your design looks not just beautiful, but usable and inclusive.
+
+5. Helps Maintain Brand Identity
+Every brand has a personality — reflected through colors, fonts, and style.
+Identifying design properties ensures your mock-up stays aligned with that brand identity (for example, a climate tech app using calm greens and blues).
+
+6. Enables Reusability and Scalability
+When design properties are clearly identified, you can create design systems or component libraries that make it easy to scale your project in the future.Saves time when adding new features or pages.
